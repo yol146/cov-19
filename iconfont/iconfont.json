@@ -1,0 +1,37 @@
+{
+  "id": "1616561",
+  "name": "ui",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1135999",
+      "name": "last page",
+      "font_class": "prev",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "1192699",
+      "name": "next page",
+      "font_class": "xiayiye",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "4734152",
+      "name": "next page",
+      "font_class": "ic_nextpage",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "7588113",
+      "name": "main page",
+      "font_class": "shouye",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    }
+  ]
+}
